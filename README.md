@@ -1,12 +1,12 @@
 # TodaysWeather
  App build using UIKit and CoreLocation. App use your current location to retrieve weather data from OpenWeather API, and then display weather information on screen.
 
-Packages Userd:
+Packages userd:
 - [Alamofire](https://github.com/Alamofire/Alamofire)
 - [Lottie](https://github.com/airbnb/lottie-ios)
 - [SkeletonView](https://github.com/Juanpe/SkeletonView)
  
-Icon Used in this app are from Flaticon:
+Icons used in this app are from Flaticon:
 - [Humidity Icon](https://www.flaticon.com/free-icon/humidity_5664996) 
 - [Max Temp Icon](https://www.flaticon.com/free-icon/temperature-control_7649409)
 - [Min Temp Icon](https://www.flaticon.com/free-icon/temperature-control_7649404)
